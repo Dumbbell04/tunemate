@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Tunemate v2"
 include(":app")
- 
+  
